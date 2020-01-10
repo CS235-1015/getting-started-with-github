@@ -5,8 +5,8 @@ I suggest learning a little about git before class next week, here are some good
 
 https://guides.github.com/activities/hello-world/
 
-#The Client
-
+The Client
+=======
 Git is mainly a commandline based program but luckly for us, Github has developed a desktop client that can be used for source control.
 
 I suggest downloading a git GUI program because it will make things easier to work with.
